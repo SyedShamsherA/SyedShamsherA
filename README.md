@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Conversational-chatbot App**
 
-- 💬 Ask me about **React , node , html , css , javascript**
+- 💬 Ask me about **React , node , html , css , javascript, react-native**
 
 - 📫 How to reach me **syedshamsher9174@gmail.com**
 
